@@ -4,5 +4,6 @@ public class main
     {
         System.out.println("Cyber Cafe Management System Running!");
         System.out.println("Hi Mishir");
+        System.out.println("Bhai ho jaana yaar jaldi se");
     }
 }
